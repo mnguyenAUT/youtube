@@ -1,0 +1,2 @@
+#create exe file
+pyinstaller --onefile .\youtubeGui.py
